@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
+## Explicacion
+
+El proyecto es un crud simple de angular para aprender acerca del doble enlace de datos utilizando arrays de datos en forms usando [(ngModel)].
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
